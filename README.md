@@ -16,6 +16,6 @@
 - **Location and Links**:
   - Displays the user's location, personal website, and Twitter handle (if available).
 - **Light/Dark Mode Toggle**: Easily switch between light and dark themes.
+![Screenshot 2025-01-22 142313](https://github.com/user-attachments/assets/796ea43d-580a-496a-9378-943f43562161)
 
-![Screenshot 2024-10-19 032140](https://github.com/user-attachments/assets/21640d8c-68b6-4ca9-bbcc-b1fb9e7bc5aa)
-![Screenshot 2024-10-19 032123](https://github.com/user-attachments/assets/0caca736-5585-4e0a-afe3-7d853587e8f8)
+![Screenshot 2025-01-22 142303](https://github.com/user-attachments/assets/77faf2f6-dfb6-4345-85b2-692757b39c2a)
